@@ -225,15 +225,19 @@ body {
 }
 .item-one {
   background-color: hsl(var(--clr-hsl-light-red), 0.1);
+  color: hsl(var(--clr-hsl-light-red));
 }
 .item-two {
   background-color: hsl(var(--clr--hsl-orange-yellow), 0.1);
+  color: hsl(var(--clr--hsl-orange-yellow));
 }
 .item-three {
   background-color: hsl(var(--clr-hsl-grean-teal), 0.1);
+  color: hsl(var(--clr-hsl-grean-teal));
 }
 .item-four {
   background-color: hsl(var(--clr-hsl-cobalt-blue), 0.1);
+  color: hsl(var(--clr-hsl-cobalt-blue));
 }
 .summary-score {
   color: hsl(var(--clr-hsl-darl-gray-blue), 0.5);
